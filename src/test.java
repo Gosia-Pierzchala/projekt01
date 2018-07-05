@@ -4,6 +4,7 @@ public class test {
         System.out.println("się");
         System.out.print("programowania\n");
         System.out.println("i");
-        System.out.print("commitowania");
+        System.out.println("commitowania.");
+        System.out.println("Odrabiam " + "zadanie " + "domowe.");
     }
 }
