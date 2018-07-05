@@ -6,5 +6,8 @@ public class test {
         System.out.println("i");
         System.out.println("commitowania.");
         System.out.println("Odrabiam " + "zadanie " + "domowe.");
+        System.out.println("Moje dane:");
+        System.out.println("Imię i nazwisko: Małgorzata Pierzchała");
+        System.out.print("Nr tel. 784 968 307");
     }
 }
